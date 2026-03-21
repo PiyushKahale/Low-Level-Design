@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Strategy-Design-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Observer-Design-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Iterator-Design-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Command-Design-Pattern/pom.xml" />
       </list>
     </option>
   </component>
