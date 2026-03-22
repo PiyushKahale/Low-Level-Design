@@ -9,6 +9,7 @@
         <module name="Strategy-Design-Pattern" />
         <module name="Observer-Design-Pattern" />
         <module name="Command-Design-Pattern" />
+        <module name="Mediator-Design-Pattern" />
         <module name="Iterator-Design-Pattern" />
       </profile>
     </annotationProcessing>
