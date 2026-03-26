@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Adaptor-Design-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Facade-Design-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Decorator-Design-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy-Design-Pattern/pom.xml" />
       </list>
     </option>
   </component>

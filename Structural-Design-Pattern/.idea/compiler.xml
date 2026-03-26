@@ -9,6 +9,7 @@
         <module name="Adaptor-Design-Pattern" />
         <module name="Facade-Design-Pattern" />
         <module name="Decorator-Design-Pattern" />
+        <module name="Proxy-Design-Pattern" />
       </profile>
     </annotationProcessing>
   </component>
